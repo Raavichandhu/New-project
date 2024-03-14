@@ -1,2 +1,3 @@
 # New-project
-trying t create a repository
+trying to create a repository
+Auther RCR
